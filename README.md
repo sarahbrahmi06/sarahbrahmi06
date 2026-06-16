@@ -7,6 +7,6 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-ff2d9b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarahbrahmi06.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/💜_PORTFOLIO-ff2d9b?style=for-the-badge)](https://sarahbrahmi06.github.io/portfolio/)
 
 </div>
